@@ -20,6 +20,14 @@ public class Car {
 		this.yearOfManufacturing = yearOfManufacturing;
 	}
 
-	
+	private String model;
+
+	public String getModel() {
+		return model;
+	}
+
+	public void setModel(String model) {
+		this.model = model;
+	}
 	
 }
