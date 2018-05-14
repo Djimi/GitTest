@@ -5,7 +5,6 @@ public class Car {
 	private String yearOfManufacturing;
 	private String model;
 
-
 	public String getManufacturer() {
 		return manufacturer;
 	}
