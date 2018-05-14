@@ -3,7 +3,9 @@ package com.git.git_test.models;
 public class Car {
 	private String manufacturer;
 	private String yearOfManufacturing;
-	
+	private String model;
+
+
 	public String getManufacturer() {
 		return manufacturer;
 	}
@@ -19,8 +21,6 @@ public class Car {
 	public void setYearOfManufacturing(String yearOfManufacturing) {
 		this.yearOfManufacturing = yearOfManufacturing;
 	}
-
-	private String model;
 
 	public String getModel() {
 		return model;
