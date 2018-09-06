@@ -2,6 +2,7 @@ package com.git.git_test.models;
 
 public class Animal {
     private String type;
+    private String name;
 
     public String getType() {
         return type;
@@ -11,4 +12,12 @@ public class Animal {
         this.type = type;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+    
 }
