@@ -9,7 +9,6 @@
 
   <name>git-test</name>
   <url>http://maven.apache.org</url>
-  <properties></properties>
 
   <dependencies>
     <dependency>
