@@ -16,3 +16,4 @@ local important change
 origin change from guest
 Rebase feature
 Before conflict commit
+op1
