@@ -3,3 +3,4 @@ Second change
 some text from master branch
 Rebase feature 2
 conflict master
+conflict feature_rebase
